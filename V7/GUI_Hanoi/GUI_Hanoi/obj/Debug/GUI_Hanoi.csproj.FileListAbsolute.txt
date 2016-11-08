@@ -1,0 +1,9 @@
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Hanoi\GUI_Hanoi\bin\Debug\GUI_Hanoi.exe.config
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Hanoi\GUI_Hanoi\bin\Debug\GUI_Hanoi.exe
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Hanoi\GUI_Hanoi\bin\Debug\GUI_Hanoi.pdb
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Hanoi\GUI_Hanoi\obj\Debug\GUI_Hanoi.csprojResolveAssemblyReference.cache
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Hanoi\GUI_Hanoi\obj\Debug\GUI_Hanoi.GUI_Principal.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Hanoi\GUI_Hanoi\obj\Debug\GUI_Hanoi.Properties.Resources.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Hanoi\GUI_Hanoi\obj\Debug\GUI_Hanoi.csproj.GenerateResource.Cache
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Hanoi\GUI_Hanoi\obj\Debug\GUI_Hanoi.exe
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Hanoi\GUI_Hanoi\obj\Debug\GUI_Hanoi.pdb
